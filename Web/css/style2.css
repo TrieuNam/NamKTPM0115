@@ -1,0 +1,156 @@
+
+
+*{
+	margin:0px;
+	padding:0px;
+	
+}
+body{
+
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	font-family:"Times New Roman", Times, serif;
+}
+/* menu */
+
+nav>ul>li{
+	display:inline-block;
+	position:relative;
+	}
+	
+nav>ul>li>a{
+	display:block;
+	text-decoration:none;
+	padding:0 15px;
+	line-height:50px;
+	color:white;
+	font-weight:bold;
+	}
+nav>ul>li>a:hover{
+	color:#FF0;
+}
+nav>ul{
+	padding:0px;
+	margin-left:67px;
+	margin-right:47px;
+	list-style:none;
+	border-radius:10px;
+	background-color:#6699FF;
+	text-align:center;
+	
+	} 		
+nav ul ul{
+	position:absolute;
+	display:none;
+	padding:0px;
+	margin:0px;
+	list-style:none;
+	width:250px;
+	}
+nav ul ul a{
+	display:block;
+	line-height:30px;
+	background-color:#6699FF;
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	padding:10px 10px;}  	
+nav > ul > li:hover>ul{
+	display:block;
+}	
+nav ul ul a:hover{
+	color:#FF0;
+}
+#menu{
+	width:500px;
+	margin-left:150px;
+	
+}
+header{
+	position:relative;
+}
+article{
+	float:right;
+	width:1000px;
+	margin-right:-80px;
+	margin-bottom:30px;
+}
+.sidebar{
+	margin-left:150px;
+	margin-right:112px;
+}
+.menu{
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+aside{
+	float:left;
+	width:260px;
+	margin-top:-50px;
+	margin-left:-84px;
+}
+footer{
+	clear:both;
+	background-color:CCCCCC;
+	margin-left:-85px;
+	margin-right:-600px;
+}
+.ketthuc{
+	font-weight:bold;
+	font-size:20px;
+	
+}
+.ketthuc a{
+	text-decoration:none;
+	color:#5561ba;
+	text-transform:uppercase;
+}
+footer b{
+	text-transform:uppercase;
+	color:#808080;
+	font-size:18px;
+	
+}
+footer p{
+	font-style:italic;
+	color:CCCCCC;
+	font-weight:bold;
+}
+.LoiNhan{
+	background-color:#6699FF;
+	color:#FFF;
+	text-transform:uppercase;
+	height:40px;
+	line-height:40px;
+	font-size:24px;
+	border-radius:10px;
+	margin-left:-1px;
+	margin-right:-2px;
+}
+.menu1{
+	padding-left:30px;
+	background-color:#6699FF;
+	border-radius:10px;
+}
+.menu1 ul li{
+	padding:10px;
+}
+.menu1 ul li a{
+	text-decoration:none;
+	color:#FFF;	
+}
+.menu1 ul li a:hover{
+	color:#FF0;
+}
+
+
+.menu2{
+	background-color:#6699FF;
+	border-radius:10px;
+}
+.menu2 p{
+	text-align:center;
+	color:black;
+	font-weight:bold;
+}
