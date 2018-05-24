@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="width_menu_button">300dp</dimen>
+    <dimen name="size_menu_button">20sp</dimen>
+
+    <dimen name="size_player_sign_image">26dp</dimen>
+    <dimen name="size_player_sign_image2">27dp</dimen>
+    <dimen name="kich_co_table_trai">17dp</dimen>
+    <dimen name="kich_co_table_phai">13dp</dimen>
+    <dimen name="kich_co_table_tren">18dp</dimen>
+    <dimen name="kich_co_table_duoi">4dp</dimen>
+    <dimen name="size_game_board">320dp</dimen>
+</resources>

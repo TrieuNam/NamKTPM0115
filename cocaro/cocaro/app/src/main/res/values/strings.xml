@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cocaro2</string>
+
+    <string name="online">Online</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+
+    <string name="about_note">
+
+        By Triệu Phương Nam đồ án 2 trường Đại học Kỹ Thuật cần Thơ
+        \n Giáo Viên hướng dẫn Thầy Hà Xuân Sơn
+
+
+    </string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059416827800",
+    "firebase_url": "https://cocaro-5b47c.firebaseio.com",
+    "project_id": "cocaro-5b47c",
+    "storage_bucket": "cocaro-5b47c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059416827800:android:bf06a8fe2bf9a92e",
+        "android_client_info": {
+          "package_name": "com.example.admin.cocaro2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059416827800-8rqloljltivniie1u9ouq0qtm9n0t7th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7M5uhl3GZ16cFOEc3xMfrGLh2-bhKK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
