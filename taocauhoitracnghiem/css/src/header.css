@@ -1,0 +1,111 @@
+/* CSS Document */
+@media screen {
+* { margin: 0; padding: 0; }    
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+ul, ol {list-style: none;}
+strong {font-weight: bold;}
+
+article, aside, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+.group:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+.group { display: inline-block; clear: both; }
+/* start commented backslash hack \*/ * html .group { height: 1%; } .group { display: block; } /* close commented backslash hack */
+
+body { 
+	font: 12px/2 "Helvetica Neue",Helvetica,Arial,sans-serif; 
+	background:url(../images/bg.png);
+	margin:0;
+}
+
+/*
+	TYPOGRAPHY
+*/
+h1, h2, h3, h4, h5 {}
+a img { border: 0; }
+a {color: #ce9702; text-decoration: none;}
+.zoomer:active { top: 0; }
+
+#page-wrap{margin:0 auto; width:1000px;}
+#header{height:100px; padding:5px 0px 0px 0px;
+}
+
+#header h1 a{
+	display:block;
+	height:150px;
+	background:url(../images/header.png) no-repeat;
+	text-indent:-9999999px;
+	}
+	
+/*Begin Menu*/	
+#top-bar{	
+	background:#DCC09C;
+	padding:1px 0 0 0;
+	
+}
+#menu-page-menu li{
+	position: relative; float:left;	
+}
+#menu-page-menu li a{display:block; float:left;
+	padding:0px 10px;
+	font-size:16px;
+	color:#000;
+	
+}
+#menu-page-menu li a:hover{
+	color:#FFF;
+	
+}
+#menu-page-menu li ul{ position:absolute; top:100%;
+	width:13em;
+	display:none;
+	z-index:1000px;
+}
+#menu-page-menu li:hover ul{	
+	display:block;
+	background:#912833;
+}
+#menu-page-menu li ul li a{
+	float:none;
+	font-size:14px;
+	/*border-left:1px solid white;
+	border-right:1px solid white;*/
+}
+menu-page-menu li ul li{
+	background-color:#bcd4da; width:100%;
+}
+menu-page-menu li ul li a:hover{
+	background-color:#d7e7ea; color:#666;
+}
+	
+#fw_menu_2
+{
+	width:1000px;
+	background:#f2f5f7;
+	height:35px;
+	border-bottom:solid 1px #e2e9eb;
+	margin:0 auto; width:1000px;
+}
+#xinchao{
+	margin:3px;
+	color:#FFF;
+	font-size:14px;
+	font-weight:bold;
+}

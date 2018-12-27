@@ -1,0 +1,323 @@
+body{
+
+}
+/* desktop*/
+.Toancuc{
+	width:14000px;
+height: 500px;
+margin:auto;
+}
+.Header{
+	background-color: #525252;
+	width:14000px;
+	height:14000px;
+	
+	
+}
+.Logo{
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+
+ 
+
+.Menu {
+	
+  overflow: hidden;
+  background-color: #333;
+  margin-top: 20px;
+ 
+}
+
+
+.Menu a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.Menu a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+#idBammer{
+ 	margin-top: 35px;
+	width: 1000px;
+	
+}
+.Menu .icon {
+  display: none;
+}
+	.NoiDung1{
+	margin-top: 5px; 
+	background: blue;
+	
+	}
+	.NoiDung1 .Menu {
+		
+	float: left;
+	text-align: center;
+	width: 14000px;
+	margin-top: 5px;
+	background:#CCCCCC;
+	margin-top:500px;
+	}
+	
+
+	.NoiDung1 .Menu a{	
+	float: left;
+
+	margin-left:  55px;
+	padding-left: 55px;
+	list-style: none;
+	}
+	 .SanPham{
+		height: 500px;
+	background:#CCCCCC;
+	}
+
+#SanPham{
+	
+	margin-left: 8px;
+	float: left;
+	margin-top:10px; 
+	 width: 240px;
+  	 height: 200px;
+  	 background: red;
+     color: #fff;
+}
+#imgSanPham{
+	width: 210px;
+	height: 150px;
+	margin-left: 15px;
+	margin-top:10px; 
+	 position:absolute;
+}
+.cost{
+	position:absolute;
+	margin-top: 50px; 
+	background: blue;
+}
+.tenSanPham{
+	margin-top:160px;
+	margin-left:10px;
+}
+/* mobi 768*/
+		@media screen and (max-width: 768px) {
+		  .Menu a:not(:first-child) {display: none;}
+		  .Menu a.icon {
+			float: right;
+			display: block;
+		  }
+		  
+		}
+
+		@media screen and (max-width: 768px) {
+		  .Menu.responsive {position: relative;}
+		  .Menu.responsive .icon {
+			position: absolute;
+			right: 0;
+			top: 0;
+		  }
+		  #idBammer {
+			  position: relative;
+			margin-top:40px;
+				float:left;
+				width: 717px;
+			}
+			.Header{		
+				width:717px;
+				height:100px;
+			}
+			
+			.NoiDung1 .Menu {
+		
+			float: left;
+			text-align: center;
+			
+			width:717px;
+			background:#CCCCCC;
+			}
+			.khoanhCach{
+				height:390px;
+			}
+			 .SanPham{
+				height: 650px;
+				background:#CCCCCC;
+			}
+		  #SanPham{
+	
+			margin-left: 8px;
+			float: left;
+			margin-top:10px; 
+			 width: 230px;
+			 height: 190px;
+			 background: red;
+			 color: #fff;
+		}
+		#imgSanPham{
+			width: 200px;
+			height: 140px;
+			margin-left: 15px;
+			margin-top:10px; 
+			 position:absolute;
+		}
+		  
+		  .Menu.responsive a {
+			float: none;
+			display: block;
+			text-align: left;
+		  
+		  }	
+		}
+		/* mobi 600*/
+		@media screen and (max-width: 600px) {
+		  .Menu a:not(:first-child) {display: none;}
+		  .Menu a.icon {
+			float: right;
+			display: block;
+		  }
+		  
+		}
+		
+		@media screen and (max-width: 600px) {
+		  .Menu.responsive {position: relative;}
+		  .Menu.responsive .icon {
+			position: absolute;
+			right: 0;
+			top: 0;
+		  }
+		  #idBammer {
+			  position: relative;
+			margin-top:5px;
+			  float:left;
+			  width: 300px;
+			}
+			.Header{
+				width:300px;
+
+			}
+			.NoiDung #idBammer{
+				margin-top:5px;
+			}
+			.NoiDung1 .Menu {
+		
+			float: left;
+			text-align: center;
+			
+			width:300px;
+		background:#CCCCCC;
+			}	
+			.khoanhCach{
+				height:230px;
+			}
+			 .SanPham{
+				height: 665px;
+				background:#CCCCCC;
+			}
+			 #SanPham{
+	
+			margin-left: 8px;
+			float: left;
+			margin-top:10px; 
+			 width: 140px;
+			 height: 140px;
+			 background: red;
+			 color: #fff;
+		}
+		#imgSanPham{
+			width: 110px;
+			height: 90px;
+			margin-left: 15px;
+			margin-top:10px; 
+			 position:absolute;
+		}
+		  .tenSanPham{
+				margin-top:110px;
+				margin-left:10px;
+			}
+		  
+		  .Menu.responsive a {
+			float: none;
+			display: block;
+			text-align: left;
+		  }
+		
+		}
+		/* mobi 320*/
+		@media screen and (max-width: 320px) {
+		  .Menu a:not(:first-child) {display: none;}
+		  .Menu a.icon {
+			float: right;
+			display: block;
+		  }
+			
+		  
+		}
+		
+		@media screen and (max-width: 320px) {
+		  .Menu.responsive {position: relative;}
+		  .Menu.responsive .icon {
+			position: absolute;
+			right: 0;
+			top: 0;
+		  }
+		  #idBammer {
+				position: relative;
+				margin-top:5px;
+				float:left;
+				width: 150px;
+			}
+			.Header{
+				width:150px;
+				
+			}
+			.Logo{
+				float: left;
+				margin-top: 10px;
+				margin-left: 1px;
+				
+			}
+			.NoiDung1 .Menu {
+		
+			float: left;
+			text-align: center;
+			
+			width:150px;
+			background:#CCCCCC;
+			}
+			#imglogo{
+				width:100px;
+				
+			}
+			.Menu{
+				margin-top:5px;
+			}
+				
+
+		   .SanPham{
+				height: 1260px;
+				background:#CCCCCC;
+			}
+		  
+		  .Menu.responsive a {
+			float: none;
+			display: block;
+			text-align: left;
+		  }
+			
+		}
+		
+
+			
