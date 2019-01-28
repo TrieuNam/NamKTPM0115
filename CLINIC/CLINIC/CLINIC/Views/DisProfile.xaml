@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.DisProfile">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <ScrollView Orientation="Horizontal">
+                    <StackLayout  >
+                        <StackLayout>
+
+
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Label Text="Ngày Khám" Grid.Column="0"/>
+                                <Label Text="Tên Phòng Khám:" Grid.Column="1"/>
+                                <Label Text="Địa Chỉ" Grid.Column="2"/>
+                                <Label Text="Số điện thoại" Grid.Column="3"/>
+                                <Label Text="Tên bác sĩ" Grid.Column="4"/>
+                                <Label Text="Ngày Khám:" Grid.Column="5"/>
+                                <Label Text="Ngày kết thúc" Grid.Column="6"/>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout>
+
+
+                            <ListView x:Name="DisProfileList" 
+                                SeparatorVisibility="Default"
+                                BackgroundColor="White" ItemTapped="DisProfileList_ItemTapped">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <StackLayout VerticalOptions="FillAndExpand"
+                                                     Orientation="Horizontal" >
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="*"/>
+                                                    </Grid.RowDefinitions>
+                                                    <Label Text="{Binding Name_Cus}"  Grid.Column="0"/>
+                                                    <Label Text="{Binding dateofbirth}"  Grid.Column="1"/>
+                                                    <Label Text="{Binding Address}"  Grid.Column="2"/>
+                                                    <Label Text="{Binding Phone}"  Grid.Column="3"/>
+                                                    <Label Text="{Binding Name_Emp}"  Grid.Column="4"/>
+                                                    <Label Text="{Binding straidate}"  Grid.Column="5"/>
+                                                    <Label Text="{Binding endingdate}"  Grid.Column="6"/>
+                                                   
+                                                </Grid>
+                                            </StackLayout>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

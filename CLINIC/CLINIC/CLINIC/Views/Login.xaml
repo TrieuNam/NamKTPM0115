@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.Login">
+    <ContentPage.Content>
+        <StackLayout Padding="8" Spacing="20" Orientation="Vertical">
+            <StackLayout Margin="20,20,20,20" Orientation="Horizontal"  HorizontalOptions="Center">
+                <Label Text="CLINIC-DEC" Margin="0,0,30,0" TextColor="Red"
+                    FontAttributes="Bold"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Center">
+                </Label>
+                <Image
+                    Source="ic_Doctor.png" WidthRequest="80" HeightRequest="80"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center">
+                </Image>
+            </StackLayout>
+
+            <BoxView Color="Blue" HeightRequest="4"></BoxView>
+            <Entry x:Name="Username"  Margin= "20,0,20,0" Placeholder="UserName" TextColor="Black"/>
+            <Entry x:Name="Password"  Margin= "20,0,20,0" Placeholder="PassWord" IsPassword="True" TextColor="Black"/>
+            <Button 
+                BackgroundColor="BlanchedAlmond"
+                x:Name="Login_Account"
+                Text="Login"
+                TextColor="Blue"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Clicked="Login_Clicked"/>
+            
+            <StackLayout VerticalOptions="Center">
+                <Button Text="Register Account" 
+                    x:Name="Register_Acccount" 
+                    WidthRequest="200" 
+                    BorderWidth="0" 
+                    TextColor="Brown"
+                    BackgroundColor="WhiteSmoke"
+                    Clicked="Register_Clicked"/>
+            </StackLayout>
+            <ActivityIndicator IsRunning="{Binding IsRunning}" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

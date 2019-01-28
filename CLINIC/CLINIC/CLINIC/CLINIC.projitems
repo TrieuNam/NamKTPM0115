@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{AC86DB6D-52C1-400B-BC7D-0F81367E647D}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CLINIC</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)APIConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)APIException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)app\Zalo3rdAppClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CustomMap.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CustomPin.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)entities\Zalo3rdAppInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)entities\ZaloOaInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Infrastructure\InstanceLocator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interface\ISQLiteDb.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MasterPageViews2.xaml.cs">
+      <DependentUpon>MasterPageViews2.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Models\BookModel2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ClinicModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DiseaseModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DisProfileModels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DisProModelss.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DoctorModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ExecuteData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\FacultyModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\GetDB.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ItemModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\LoginModels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\LoginUsersModels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Message.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\MessInfor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ShiftModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\action\OpenCallAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\action\OpenInAppAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\action\OpenOutAppAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\action\OpenSMSAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\action\QueryHideAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\action\QueryShowAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\MsgAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\message\MsgLink.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)oa\ZaloOaClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SampleMapPage.xaml.cs">
+      <DependentUpon>SampleMapPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Service\EmailService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Service\NavigationService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)utils\FileUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)utils\MacUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewsModels\chatViewModels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewsModels\MainViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewsModels\MenuItemViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewsModels\PersonRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\BookView2.xaml.cs">
+      <DependentUpon>BookView2.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\chatOutViews.xaml.cs">
+      <DependentUpon>chatOutViews.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ChatViews.xaml.cs">
+      <DependentUpon>ChatViews.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\DisProfile.xaml.cs">
+      <DependentUpon>DisProfile.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\DisProLineView.xaml.cs">
+      <DependentUpon>DisProLineView.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\DoctorViewsBook.xaml.cs">
+      <DependentUpon>DoctorViewsBook.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ItemView.xaml.cs">
+      <DependentUpon>ItemView.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LoginViews.xaml.cs">
+      <DependentUpon>LoginViews.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MainDocctor.xaml.cs">
+      <DependentUpon>MainDocctor.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MainPageChat.xaml.cs">
+      <DependentUpon>MainPageChat.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MainViews.xaml.cs">
+      <DependentUpon>MainViews.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MasterPageViews.xaml.cs">
+      <DependentUpon>MasterPageViews.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MenuPageView.xaml.cs">
+      <DependentUpon>MenuPageView.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PupopViews.xaml.cs">
+      <DependentUpon>PupopViews.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Register.xaml.cs">
+      <DependentUpon>Register.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\SelectorDataTemplate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ViewClinic.xaml.cs">
+      <DependentUpon>ViewClinic.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ViewDoctor.xaml.cs">
+      <DependentUpon>ViewDoctor.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Webzalo.xaml.cs">
+      <DependentUpon>Webzalo.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)ZaloBaseClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ZaloEndpoint.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MasterPageViews.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MainViews.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MenuPageView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LoginViews.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\DisProfile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\DisProLineView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ViewClinic.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ViewDoctor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\BookView2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\PupopViews.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ItemView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)SampleMapPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Register.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\DoctorViewsBook.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MainDocctor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Webzalo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)MasterPageViews2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ChatViews.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MainPageChat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\chatOutViews.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

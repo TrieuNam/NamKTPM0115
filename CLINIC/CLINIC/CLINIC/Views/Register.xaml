@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.Register">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="5">
+            <!--<StackLayout Orientation="Horizontal">
+                <Entry x:Name="FNameEntry" Placeholder="First Name"></Entry>
+                <Entry x:Name="LNameEntry" Placeholder="Last Name"></Entry>
+            </StackLayout>-->
+            <Entry  x:Name="NameEntry" Placeholder="Name"/>
+            <Entry  x:Name="AddressEntry" Placeholder="Address"/>
+            <Entry  x:Name="PhoneEntry" Placeholder="Phone"/>
+            <Entry x:Name="AccountEntry" Placeholder="Account"></Entry>
+            <Entry x:Name="CirtificateEntry" Placeholder="Cirtificate"></Entry>
+            <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True"></Entry>
+            <Entry x:Name="CPasswordEntry" Placeholder="Confirm Password" IsPassword="True"></Entry>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Save Password"></Label>
+                <Switch IsToggled="False"></Switch>
+            </StackLayout>
+            <Button Text="Sign Up" Clicked="Button_Clicked"></Button>
+
+            <Label Text="Already have account? Sign In" TextColor="Blue"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

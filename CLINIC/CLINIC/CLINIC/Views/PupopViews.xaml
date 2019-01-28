@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="CLINIC.Views.PupopViews">
+
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Button Text="Xem Chi tiet benh" Clicked="Button_Clicked"></Button>
+            <Button Text="Xem Thuoc" Clicked="Button_Clicked_1"></Button>
+        </StackLayout>
+ 
+</pages:PopupPage>

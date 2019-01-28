@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.DoctorViewsBook">
+    <ContentPage.Content>
+        <StackLayout>
+            <DatePicker x:Name="dp" WidthRequest="20" HeightRequest="50" Format="yyyy-MM-dd" DateSelected="dp_DateSelected"/>
+            <Grid Margin="10">
+                <StackLayout>
+                    <ListView x:Name="listtime" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Orientation="Vertical">
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+
+                                            </Grid.ColumnDefinitions>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="*"/>
+                                                <RowDefinition Height="*"/>
+                                            </Grid.RowDefinitions>
+                                            <Label Text="{Binding time}" Grid.Row="0" Grid.Column="0"/>
+                                            <StackLayout Grid.Row="0" Grid.Column="1" Orientation="Vertical">
+                                                <Label Text="{Binding TrangThai}"/>
+                                            </StackLayout>
+
+                                        </Grid>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

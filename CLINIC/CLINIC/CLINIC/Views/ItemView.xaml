@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.ItemView">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <ScrollView Orientation="Horizontal">
+                    <StackLayout  >
+                        <StackLayout>
+
+
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Label Text="Mã hồ sơ" Grid.Column="0"/>
+                                <Label Text="Mã thuốc" Grid.Column="1"/>
+                                <Label Text="Tên thuốc" Grid.Column="2"/>
+                                <Label Text="Đơn vị tính" Grid.Column="4"/>
+                                <Label Text="Liều dùng" Grid.Column="5"/>
+                                <Label Text="Xuất xứ" Grid.Column="6"/>
+                                <Label Text="Dược lực học" Grid.Column="7"/>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout>
+                            <ListView x:Name="ItemList" 
+                                SeparatorVisibility="Default"
+                                BackgroundColor="White" ItemTapped="ItemList_ItemTapped">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <StackLayout VerticalOptions="FillAndExpand"
+                                                     Orientation="Horizontal" >
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="*"/>
+                                                    </Grid.RowDefinitions>
+                                                    <Label Text="{Binding PrecLineNo_}"  Grid.Column="0"/>
+                                                    <Label Text="{Binding MedicineNo_}"  Grid.Column="1"/>
+                                                    <Label Text="{Binding Name}"  Grid.Column="2"/>
+                                                    <Label Text="{Binding Base_Unit_of_Measure}"  Grid.Column="3"/>
+                                                    <Label Text="{Binding Dosage}"  Grid.Column="4"/>
+                                                    <Label Text="{Binding Amount}"  Grid.Column="5"/>
+                                                    <Label Text="{Binding Origination}"  Grid.Column="6"/>
+                                                    <Label Text="{Binding Pharmacodynamic}"  Grid.Column="7"/>
+                                                </Grid>
+                                            </StackLayout>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

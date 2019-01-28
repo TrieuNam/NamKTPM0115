@@ -1,0 +1,566 @@
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname.apk
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname-Signed.apk
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csproj.CoreCompileInputs.cache
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.dll
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\bin\com.companyname.apk
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\tabbar.xml
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\toolbar.xml
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\styles.xml
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\colors.xml
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\icon.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\icon.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.cs.flag
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.txt
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\uploadflags.txt
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\benhnhan.jpg
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\contact.jpg
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\hs.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\ic_doctor.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_doctor.jpg
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_xuongkhop.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\livechat.jpg
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\rg.png
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Android.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\mscorlib.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Core.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Data.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.EnterpriseServices.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Web.Services.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.Linq.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ComponentModel.Composition.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Net.Http.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Numerics.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Runtime.Serialization.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ServiceModel.Internals.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Transactions.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Security.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Android.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\mscorlib.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Core.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Data.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.EnterpriseServices.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Web.Services.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Net.Http.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Numerics.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Transactions.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Security.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\CLINIC.Android.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csprojAssemblyReference.cache
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\CLINIC.Android.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Android.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Security.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\mscorlib.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Core.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Data.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.EnterpriseServices.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Net.Http.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Numerics.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Transactions.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Web.Services.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+F:\New folder (3)\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname.Clinic.apk
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname.Clinic-Signed.apk
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csproj.CoreCompileInputs.cache
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.dll
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\bin\com.companyname.Clinic.apk
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\styles.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\colors.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\benhnhan.jpg
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\contact.jpg
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\hs.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\ic_doctor.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_doctor.jpg
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_xuongkhop.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\livechat.jpg
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\rg.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\info.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\monkey.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\pin.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\info.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\monkey.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\pin.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\info.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\monkey.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\pin.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\xamarin.png
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\mapinfowindow.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\xamarinmapinfowindow.xml
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.cs.flag
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.txt
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\uploadflags.txt
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csprojAssemblyReference.cache
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Android.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\mscorlib.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Core.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Data.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.EnterpriseServices.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Numerics.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Transactions.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Security.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.EnterpriseServices.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\CLINIC.Android.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\CLINIC.Android.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.EnterpriseServices.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\PhiThiNgocMinh\Desktop\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname.Clinic.apk
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname.Clinic-Signed.apk
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csprojAssemblyReference.cache
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\proguard\dc663e480.txt
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\0757626b.proguard.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csproj.CoreCompileInputs.cache
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.dll
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\bin\com.companyname.Clinic.apk
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\tabbar.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\toolbar.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\styles.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\colors.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\benhnhan.jpg
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\contact.jpg
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\hs.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\ic_doctor.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_doctor.jpg
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_xuongkhop.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\livechat.jpg
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\rg.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\info.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\monkey.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\pin.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\info.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\monkey.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\pin.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\info.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\monkey.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\pin.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\xamarin.png
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\mapinfowindow.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\xamarinmapinfowindow.xml
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.cs.flag
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.txt
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\uploadflags.txt
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Android.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\mscorlib.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Core.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Data.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.EnterpriseServices.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Net.Http.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Web.Services.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.Linq.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Numerics.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Transactions.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Security.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Android.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\mscorlib.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Core.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Data.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.EnterpriseServices.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Net.Http.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Web.Services.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Numerics.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Transactions.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Security.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\CLINIC.Android.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\CLINIC.Android.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Android.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Security.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\mscorlib.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Core.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Data.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.EnterpriseServices.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Net.Http.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Numerics.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Transactions.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Web.Services.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+E:\Mobile_app\Mode\CLINIC\Src\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname.Clinic.apk
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\com.companyname.Clinic-Signed.apk
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\proguard\dc663e480.txt
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\0757626b.proguard.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csproj.CoreCompileInputs.cache
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.dll
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\bin\com.companyname.Clinic.apk
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\tabbar.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\toolbar.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\styles.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\values\colors.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\benhnhan.jpg
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\contact.jpg
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\hs.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\ic_doctor.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_doctor.jpg
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon_xuongkhop.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\livechat.jpg
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\rg.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\info.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\monkey.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-hdpi\pin.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\info.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\monkey.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xhdpi\pin.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\info.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\monkey.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable-xxhdpi\pin.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\icon.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\drawable\xamarin.png
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\mapinfowindow.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\res\layout\xamarinmapinfowindow.xml
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.cs.flag
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\R.txt
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\uploadflags.txt
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\CLINIC.Android.csprojAssemblyReference.cache
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Android.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\mscorlib.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\MvvmHelpers.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Core.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Data.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.EnterpriseServices.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Net.Http.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Web.Services.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Xml.Linq.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Numerics.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\System.Transactions.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Mono.Security.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Android.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\mscorlib.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\MvvmHelpers.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Core.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Data.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.EnterpriseServices.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Net.Http.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Web.Services.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Numerics.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\System.Transactions.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Mono.Security.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\CLINIC.Android.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\CLINIC.Android.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Android.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Mono.Security.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\mscorlib.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\MvvmHelpers.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Core.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Data.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.EnterpriseServices.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Net.Http.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Numerics.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Transactions.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Web.Services.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\System.Xml.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\bin\Debug\CLINIC.Android.dll
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\CLINIC.Android.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+E:\CLINIC\CLINIC\CLINIC\CLINIC.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

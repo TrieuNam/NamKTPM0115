@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getDataTable">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sql" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getDataTableResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getDataTableResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setDataTable">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sql" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setDataTableResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="setDataTableResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getDataTableSoapIn">
+    <wsdl:part name="parameters" element="tns:getDataTable" />
+  </wsdl:message>
+  <wsdl:message name="getDataTableSoapOut">
+    <wsdl:part name="parameters" element="tns:getDataTableResponse" />
+  </wsdl:message>
+  <wsdl:message name="setDataTableSoapIn">
+    <wsdl:part name="parameters" element="tns:setDataTable" />
+  </wsdl:message>
+  <wsdl:message name="setDataTableSoapOut">
+    <wsdl:part name="parameters" element="tns:setDataTableResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceBFOSoap">
+    <wsdl:operation name="getDataTable">
+      <wsdl:input message="tns:getDataTableSoapIn" />
+      <wsdl:output message="tns:getDataTableSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setDataTable">
+      <wsdl:input message="tns:setDataTableSoapIn" />
+      <wsdl:output message="tns:setDataTableSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceBFOSoap" type="tns:WebServiceBFOSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getDataTable">
+      <soap:operation soapAction="http://tempuri.org/getDataTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setDataTable">
+      <soap:operation soapAction="http://tempuri.org/setDataTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServiceBFOSoap12" type="tns:WebServiceBFOSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getDataTable">
+      <soap12:operation soapAction="http://tempuri.org/getDataTable" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setDataTable">
+      <soap12:operation soapAction="http://tempuri.org/setDataTable" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServiceBFO">
+    <wsdl:port name="WebServiceBFOSoap" binding="tns:WebServiceBFOSoap">
+      <soap:address location="http://115.79.25.188:8092/WebServiceBFO.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServiceBFOSoap12" binding="tns:WebServiceBFOSoap12">
+      <soap12:address location="http://115.79.25.188:8092/WebServiceBFO.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

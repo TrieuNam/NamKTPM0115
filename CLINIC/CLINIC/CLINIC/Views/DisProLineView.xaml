@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.DisProLineView">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <ScrollView Orientation="Horizontal">
+                    <StackLayout  >
+                        <StackLayout>
+
+
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Label Text="Mã hồ sơ" Grid.Column="0"/>
+                                <Label Text="Mã bệnh" Grid.Column="1"/>
+                                <Label Text="Tên bệnh" Grid.Column="2"/>
+                                <Label Text="Ghi chú" Grid.Column="3"/>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout>
+                            <ListView x:Name="DisProList" 
+                                SeparatorVisibility="Default"
+                                BackgroundColor="White" ItemTapped="DisProList_ItemTapped">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <StackLayout VerticalOptions="FillAndExpand"
+                                                     Orientation="Horizontal" >
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="*"/>
+                                                    </Grid.RowDefinitions>
+                                                    <Label Text="{Binding ProLineNo_}"  Grid.Column="0"/>
+                                                    <Label Text="{Binding DisNo_}"  Grid.Column="1"/>
+                                                    <Label Text="{Binding Diagnose }"  Grid.Column="2"/>
+                                                    <Label Text="{Binding Descrip}"  Grid.Column="3"/>
+                                                </Grid>
+                                            </StackLayout>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

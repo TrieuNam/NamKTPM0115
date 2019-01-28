@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.MainDocctor">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="click_DangXuat" Text="Đăng Xuất" Clicked="click_DangXuat_Clicked" Order="Secondary">
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Spacing="50">
+
+
+            <Grid>
+                <Grid Padding="32"
+                      ColumnSpacing="32"
+                      RowSpacing="32">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="130"/>
+                        <RowDefinition Height="130"/>
+                        <RowDefinition Height="130"/>
+                        <RowDefinition Height="130"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130"/>
+                        <ColumnDefinition Width="130"/>
+                        <ColumnDefinition Width="130"/>
+                        <ColumnDefinition Width="130"/>
+                    </Grid.ColumnDefinitions>
+                    <StackLayout Grid.Row="0" 
+                             Grid.Column="0"
+                             Orientation="Horizontal"
+                             HorizontalOptions="Center">
+                        <Grid>
+                            <Image Source="rg.png"
+                               HorizontalOptions="FillAndExpand"
+                               Aspect="AspectFill"/>
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="FindDoctor"/>
+                            </Grid.GestureRecognizers>
+                        </Grid>
+                    </StackLayout>
+                </Grid>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

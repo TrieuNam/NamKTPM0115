@@ -1,0 +1,384 @@
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Demographics
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Access log
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Diagnoses
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Providers
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Records
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Prescription Records
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Expired Prescription Reports
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Messages
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Message
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Send
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Satisfaction Survey Results
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Email History
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Show
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Add
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Add
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Basic Health Information
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Demographics
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Patient Information
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	PHR Information
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Representatives
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	UAPs
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Messages
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Message
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Send
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	All Patients
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Laboratory Procedures
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Report Requests
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Emergency Patient Report
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Report
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Patient List
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Patients
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Monitor
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Consultations
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Send
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Pending Consultations
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Chronic Disease Risks
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Document Office Visit
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Email History
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Office Visit Reminders
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Satisfaction Survey Results
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Potential Prescription-Renewals
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Add
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	PHR
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Basic Health Information
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Patient
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Demographics
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Report Requests
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Laboratory Procedures
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Patient List
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Status
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Report
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Document Office Visit
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Chronic Disease Risks
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Email History
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	UAP
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Satisfaction Survey Results
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	ER
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Emergency Patient Report
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Report
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	PHA
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Adverse Events
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Monitor
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	HCP
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Add
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	ER
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Add
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	PHA
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Add
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	HCP Assignment to Hospital
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	CPT ProcedureCodes
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	ND Codes
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	ICD Codes
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	LOINC Codes
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Personnel
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	My Demographics
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Edit
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Hospital Listing
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Manage
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Global Session Timeout
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	Change
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Admin
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	Satisfaction Survey Results
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	Tester
+urn:oasis:names:tc:xacml:1.0:subject:subject-id	
+	test results
+urn:oasis:names:tc:xacml:1.0:resource:resource-id	
+	View
+urn:oasis:names:tc:xacml:1.0:action:action-id	

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.ViewDoctor">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Info Doctor" FontSize="Large" TextColor="Maroon" HorizontalOptions="Center"/>
+
+            <ListView x:Name="MylistDoctor" RowHeight="100"
+                                BackgroundColor="White"
+                                ItemTapped="MylistDoctor_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout  Orientation="Vertical" Padding="10,0,0,0">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Label Text="Tên bác sĩ:" Grid.Row="0"></Label>
+                                    <Label Text="Số điện thoại:" Grid.Row="1"></Label>
+                                    <Label Text="Chuyên Khoa:" Grid.Row="2"></Label>
+                                    <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="1"/>
+                                    <Label Text="{Binding Phone}" Grid.Row="1" Grid.Column="1"/>
+                                    <Label Text="{Binding Name_fac}" Grid.Row="2" Grid.Column="1"/>
+                                    <StackLayout HeightRequest="150" WidthRequest="100"  Grid.Row="0" Grid.Column="2" Orientation="Vertical" Padding="3,3,3,3">
+                                        <Image Source="{Binding abc}" />
+                                    </StackLayout>
+
+
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

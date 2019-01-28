@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CLINIC.Views.ViewClinic">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Vertical">
+                <ScrollView Orientation="Vertical">
+                    <StackLayout>
+                        <ListView x:Name="mylist"  ItemTapped="listClinic_ItemTapped" RowHeight="170">
+                           
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Orientation="Vertical" >
+                                            <Grid>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="*"/>
+                                                    <RowDefinition Height="*"/>
+                                                    <RowDefinition Height="*"/>
+                                                    <RowDefinition Height="*"/>
+                                                    <RowDefinition Height="*"/>
+                                                </Grid.RowDefinitions>
+                                                <Label Text="Tên Phòng Khám:" Grid.Row="0"/>
+                                                <Label Text="Mã Phòng Khám:" Grid.Row="1"/>
+                                                <Label Text="Địa Chỉ:" Grid.Row="2"/>
+                                                <Label Text="Số điện thoại:" Grid.Row="3"/>
+                                                <Label Text="Email:" Grid.Row="4"/>
+                                                <Label x:Name="Name" Text="{Binding Name }" TextColor="Red" FontSize="Large" Grid.Row="0" Grid.Column="1"/>
+                                                <Label x:Name="CliNo" Text="{Binding CliNo_}" Grid.Row="1" Grid.Column="1"/>
+                                                <Label x:Name="Address" Text="{Binding Address}" Grid.Row="2" Grid.Column="1"/>
+                                                <Label x:Name="Phone" Text="{Binding Phone}" Grid.Row="3" Grid.Column="1"/>
+                                                <Label x:Name="Mail" Text="{Binding Email }" Grid.Row="4" Grid.Column="1"/>
+                                            </Grid>
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

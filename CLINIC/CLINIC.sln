@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLINIC.Android", "CLINIC\CLINIC.Android\CLINIC.Android.csproj", "{F2C00754-E690-4B85-B949-39A0A0619828}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CLINIC", "CLINIC\CLINIC\CLINIC.shproj", "{AC86DB6D-52C1-400B-BC7D-0F81367E647D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CLINIC\CLINIC\CLINIC.projitems*{ac86db6d-52c1-400b-bc7d-0f81367e647d}*SharedItemsImports = 13
+		CLINIC\CLINIC\CLINIC.projitems*{f2c00754-e690-4b85-b949-39a0a0619828}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C00754-E690-4B85-B949-39A0A0619828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C00754-E690-4B85-B949-39A0A0619828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C00754-E690-4B85-B949-39A0A0619828}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F2C00754-E690-4B85-B949-39A0A0619828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C00754-E690-4B85-B949-39A0A0619828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C00754-E690-4B85-B949-39A0A0619828}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {911562CF-9646-4702-B99D-F4A51BA66FCF}
+	EndGlobalSection
+EndGlobal
