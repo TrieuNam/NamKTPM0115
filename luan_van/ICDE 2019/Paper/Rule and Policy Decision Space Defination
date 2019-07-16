@@ -1,0 +1,23 @@
+$DS^r_x \;\;\;\;\;\;\;\;\;\;\:\:=$  
+$\begin{cases}
+	AS^T_{AS} \; \cap AS^C_{AS} \;  \; \textbf{iff} \; e = x \\
+	\;\;\;\;\;\;\;\;\;\;\; \emptyset \;\;\;\;\;\;\;\;\;\;\;\;\;  Otherwise
+\end{cases}$
+ 
+$DS^r_{IN_{(x)}} \;\;\;\;\:\:=$
+$\begin{cases}
+AS^T_{IN} \; \cap AS^C_{IN} \;  \; \textbf{iff} \; e = x \\
+\;\;\;\;\;\;\;\;\;\;\; \emptyset \;\;\;\;\;\;\;\;\;\;\;\;\;  Otherwise
+\end{cases}$ 
+
+$DS^r_{IN_{(PD)}}\;\;\:=$ $\;\;\;\;\;\;\;\;\;\;\;\;\;\;\,\emptyset$
+
+$DS^r_{NA}\;\;\;\;\;\;\;\:=$ $AS^T_{NA} \; \cup \; (AS^T_{AS} \cap AS^C_{NA})$
+
+$DS^p_{x}\;\;\;\;\;\;\;\;\;\;\:=$ $(AS^T_{AS} \cap DS^{ca}_{x})$
+
+$DS^p_{IN_{(x)}}\;\;\;\;\; = $ $[(AS^T_{AS} \cup AS^T_{IN}) \cap DS^{ca}_{IN_{(x)}}] \cup (AS^T_{IN} \cap DS^{ca}_{x})$
+
+$DS^p_{IN_{(PD)}}\;\;\:=$ $(AS^T_{AS} \cup AS^T_{IN}) \cap DS^{ca}_{IN_{(PD)}}$
+
+$DS^p_{NA}\;\;\;\;\;\;\;\:=$ $AS^T_{NA} \; \cap DS^{ca}_{NA}$

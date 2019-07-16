@@ -1,0 +1,22 @@
+namespace teacher {
+	import Attributes_colleges.*
+	import ObligationAdvice.*
+	policyset teacherSee {
+		target
+			clause resource_Student== "AccessControl.Student_data_layer.idStu"
+			and resource_Lecturer=="AccessControl.Lecturer_data_layer.idLec"
+			and resource_Classes=="AccessControl.Classes_data_layer.idClasses"
+		apply permitOverrides
+		policy trueTeacherOfClass {
+			target	clause role == "teacher" and action =="read"
+			apply permitOverrides
+			rule trueTeacherOfClass{
+			target	clause role == "teacher" and action =="read"
+			permit
+		}
+			rule notTeacher{
+			deny
+		}
+		}
+	}
+}

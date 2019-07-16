@@ -1,0 +1,4 @@
+{"http://authz-interop.org/AAA/xacml/resource/resource-type":"http://geysers.eu/upperlicl/resource/resource-type/VR-Mon-Info"}
+{"http://authz-interop.org/AAA/xacml/resource/resource-type":"http://geysers.eu/upperlicl/resource/resource-type/VR-Power-Info"}
+{"http://authz-interop.org/AAA/xacml/resource/resource-type":"http://geysers.eu/upperlicl/resource/resource-type/VNode"}
+{"http://authz-interop.org/AAA/xacml/resource/resource-type":"http://geysers.eu/upperlicl/resource/resource-type/VR-IT"}

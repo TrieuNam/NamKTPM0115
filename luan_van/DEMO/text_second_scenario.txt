@@ -1,0 +1,328 @@
+Params: true DELETE_POLICY
+first sum: 9628938
+first sum: 541717
+1209032
+first sum: 15804626
+first sum: 518656
+775431
+first sum: 17083589
+first sum: 666087
+805159
+first sum: 9472659
+first sum: 637700
+2739091
+first sum: 8671333
+first sum: 652805
+1173397
+first sum: 9590734
+first sum: 503302
+758643
+first sum: 11969517
+first sum: 616056
+844024
+first sum: 8366629
+first sum: 586904
+6702782
+first sum: 16028002
+first sum: 995840
+867812
+first sum: 16497324
+first sum: 574332
+1432309
+
+
+Params: true INSERT_POLICY
+first sum: 8693264
+first sum: 1360288
+0
+first sum: 9388949
+first sum: 1258005
+0
+first sum: 9713758
+first sum: 4458540
+0
+first sum: 7311034
+first sum: 2259067
+0
+first sum: 9742603
+first sum: 1254792
+0
+first sum: 10038939
+first sum: 1127154
+0
+first sum: 12810518
+first sum: 1190683
+0
+first sum: 9744636
+first sum: 1356340
+0
+first sum: 10444111
+first sum: 1237763
+0
+first sum: 10289353
+first sum: 1515044
+0
+
+
+Params: true UPDATE_POLICY_DELETE_CONDITION
+first sum: 22905578
+first sum: 778990
+1159248
+first sum: 9396648
+first sum: 916303
+1195193
+first sum: 16717986
+first sum: 1063596
+954366
+first sum: 12824651
+first sum: 550389
+2001964
+first sum: 11086676
+first sum: 943401
+914092
+first sum: 11181143
+first sum: 624731
+931763
+first sum: 10793759
+first sum: 642711
+1052339
+first sum: 9987487
+first sum: 664182
+1146314
+first sum: 7286755
+first sum: 1763061
+853857
+first sum: 11508185
+first sum: 603779
+919143
+
+
+Params: true UPDATE_POLICY_EDIT_CONDITION
+first sum: 14059677
+first sum: 279796
+998339
+first sum: 14126781
+first sum: 312236
+1165263
+first sum: 7351753
+first sum: 334159
+1100243
+first sum: 11288932
+first sum: 344355
+1185481
+first sum: 9514045
+first sum: 285610
+1140560
+first sum: 10498270
+first sum: 305198
+1115756
+first sum: 13975118
+first sum: 1304023
+1826440
+first sum: 30949005
+first sum: 504686
+2451571
+first sum: 12110706
+first sum: 286677
+1662810
+first sum: 10661322
+first sum: 316264
+1208308
+
+
+Params: true UPDATE_POLICY_INSERT_CONDITION
+first sum: 12678501
+first sum: 1255961
+499203
+first sum: 11163594
+first sum: 1323907
+422916
+first sum: 14940411
+first sum: 2687065
+482193
+first sum: 17164311
+first sum: 1217151
+1851374
+first sum: 14462628
+first sum: 2566026
+537508
+first sum: 10936477
+first sum: 1255083
+416322
+first sum: 11450238
+first sum: 1496200
+378667
+first sum: 25377582
+first sum: 1487215
+441083
+first sum: 9874594
+first sum: 1269932
+476369
+first sum: 11346101
+first sum: 2789562
+386422
+
+
+Params: false DELETE_POLICY
+first sum: 14729559
+first sum: 660682
+988523
+first sum: 13769265
+first sum: 624534
+794935
+first sum: 9043808
+first sum: 808640
+1560331
+first sum: 9769722
+first sum: 551867
+946492
+first sum: 10562060
+first sum: 587006
+944859
+first sum: 10473995
+first sum: 548424
+1417528
+first sum: 24199362
+first sum: 579926
+1075270
+first sum: 16072970
+first sum: 560855
+977755
+first sum: 17810246
+first sum: 643462
+1167496
+first sum: 9012937
+first sum: 436507
+874120
+
+
+Params: false INSERT_POLICY
+first sum: 10020361
+first sum: 1317159
+526655
+first sum: 7665368
+first sum: 1104092
+537273
+first sum: 10633774
+first sum: 1280822
+474711
+first sum: 28893470
+first sum: 7893938
+1139633
+first sum: 29943704
+first sum: 1374436
+434818
+first sum: 24233232
+first sum: 1316972
+636744
+first sum: 27456175
+first sum: 1892937
+464914
+first sum: 17382076
+first sum: 1272297
+457598
+first sum: 27835863
+first sum: 7955124
+538113
+first sum: 15623664
+first sum: 1564462
+479797
+
+
+Params: false UPDATE_POLICY_DELETE_CONDITION
+first sum: 17175289
+first sum: 775533
+934218
+first sum: 13798889
+first sum: 1147204
+3723920
+first sum: 18691369
+first sum: 654728
+886836
+first sum: 17655694
+first sum: 607954
+882840
+first sum: 19330267
+first sum: 1537360
+1094336
+first sum: 98521720
+first sum: 4447431
+6949663
+first sum: 11691020
+first sum: 1519351
+1208766
+first sum: 12415964
+first sum: 4278379
+1549726
+first sum: 14978445
+first sum: 623824
+1646324
+first sum: 37257029
+first sum: 1230495
+1030105
+
+
+Params: false UPDATE_POLICY_EDIT_CONDITION
+first sum: 14180019
+first sum: 634234
+17048620
+first sum: 12778451
+first sum: 354633
+1616114
+first sum: 16646969
+first sum: 1708831
+11772379
+first sum: 16402592
+first sum: 945110
+28926501
+first sum: 21848615
+first sum: 301521
+13804082
+first sum: 9521141
+first sum: 295316
+1157462
+first sum: 23252836
+first sum: 2603734
+17021702
+first sum: 13238426
+first sum: 282298
+13956466
+first sum: 18219532
+first sum: 291647
+15346942
+first sum: 17948789
+first sum: 405640
+12802464
+
+
+Params: false UPDATE_POLICY_INSERT_CONDITION
+first sum: 16899152
+first sum: 2601855
+1713128
+first sum: 16383936
+first sum: 6042130
+2205778
+first sum: 16632307
+first sum: 2263334
+1070078
+first sum: 28620160
+first sum: 1341980
+597635
+first sum: 18961388
+first sum: 7680556
+670237
+first sum: 11880924
+first sum: 1940349
+678937
+first sum: 9371726
+first sum: 1468226
+652736
+first sum: 12722121
+first sum: 1266643
+1335713
+first sum: 22128783
+first sum: 1227139
+730655
+first sum: 15373416
+first sum: 3689275
+678516

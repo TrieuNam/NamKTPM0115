@@ -1,0 +1,116 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{ardagna2010access}
+Ardagna, C.A., et~al.: Access control for smarter healthcare using policy
+  spaces. Computers \& Security  29(8),  848--858 (2010)
+
+\bibitem{ardagna2008regulating}
+Ardagna, C.A., et~al.: Regulating exceptions in healthcare using policy spaces.
+  In: IFIP Annual Conference on Data and Applications Security and Privacy. pp.
+  254--267. Springer (2008)
+
+\bibitem{balasubramaniam2013white}
+Balasubramaniam, J., Fong, P.W.: A white-box policy analysis and its efficient
+  implementation. In: Proceedings of the 18th ACM symposium on Access control
+  models and technologies. pp. 149--160. ACM (2013)
+
+\bibitem{dunlop2001dynamic}
+Dunlop, N., Indulska, J., Raymond, K.: Dynamic policy model for large evolving
+  enterprises. In: Enterprise Distributed Object Computing Conference. pp.
+  193--197. IEEE (2001)
+
+\bibitem{ferreira2009securely}
+Ferreira, A., et~al.: How to securely break into rbac: the btg-rbac model. In:
+  Computer Security Applications Conference. pp. 23--31. IEEE (2009)
+
+\bibitem{ferreira2006break}
+Ferreira, A., et~al.: How to break access control in a controlled manner. In:
+  Computer-Based Medical Systems. pp. 847--854. IEEE (2006)
+
+\bibitem{garcia2010modular}
+Garcia-Morchon, O., Wehrle, K.: Modular context-aware access control for
+  medical sensor networks. In: Proceedings of the 15th ACM symposium on Access
+  control models and technologies. pp. 129--138. ACM (2010)
+
+\bibitem{georgakakis2011spatio}
+Georgakakis, E., et~al.: Spatio temporal emergency role based access control
+  (stem-rbac): A time and location aware role based access control model with a
+  break the glass mechanism. In: Computers and Communications. pp. 764--770.
+  IEEE (2011)
+
+\bibitem{georgiadis2001flexible}
+Georgiadis, C.K., Mavridis, I., Pangalos, G., Thomas, R.K.: Flexible team-based
+  access control using contexts. In: Proceedings of the sixth ACM symposium on
+  Access control models and technologies. pp. 21--27. ACM (2001)
+
+\bibitem{grandison2007impact}
+Grandison, T., Davis, J.: The impact of industry constraints on model-driven
+  data disclosure controls. In: Proc. of the 1st International Workshop on
+  Model-Based Trustworthy Health Information Systems (MOTHIS) (2007)
+
+\bibitem{joint2004cocir}
+Joint, N.: Cocir/jira security and privacy committee (spc). Break-glass: An
+  approach to granting emergency access to healthcare systems  (2004)
+
+\bibitem{kabbani2014specification}
+Kabbani, B., et~al.: Specification and enforcement of dynamic authorization
+  policies oriented by situations. In: New Technologies, Mobility and Security
+  (NTMS). pp. 1--6. IEEE (2014)
+
+\bibitem{maw2013adaptive}
+Maw, H.A., Xiao, H., Christianson, B.: An adaptive access control model for
+  medical data in wireless sensor networks. In: e-Health Networking,
+  Applications \& Services (Healthcom), 15th International Conference on. pp.
+  303--309. IEEE (2013)
+
+\bibitem{medvet2015evolutionary}
+Medvet, E., Bartoli, A., Carminati, B., Ferrari, E.: Evolutionary inference of
+  attribute-based access control policies. In: International Conference on
+  Evolutionary Multi-Criterion Optimization. pp. 351--365. Springer (2015)
+
+\bibitem{thi2017using}
+Nguyet, T.Q.T., et~al.: Using json to specify privacy preserving-enabled
+  attribute-based access control policies. In: International Conference on
+  Security, Privacy and Anonymity in Computation, Communication and Storage.
+  pp. 561--570. Springer (2017)
+
+\bibitem{petritsch2014generic}
+Petritsch, H.: A generic break-glass model. In: Break-Glass, pp. 37--50.
+  Springer (2014)
+
+\bibitem{rissanen2013extensible}
+Rissanen, E., et~al.: extensible access control markup language (xacml) version
+  3.0. OASIS standard  22 (2013)
+
+\bibitem{ruj2011distributed}
+Ruj, S., Nayak, A., Stojmenovic, I.: Distributed fine-grained access control in
+  wireless sensor networks. In: Parallel \& Distributed Processing Symposium
+  (IPDPS). pp. 352--362. IEEE (2011)
+
+\bibitem{son2017rew}
+Son, H.X., Dang, T.K., Massacci, F.: Rew-smt: A new approach for rewriting
+  xacml request with dynamic big data security policies. In: International
+  Conference on Security, Privacy and Anonymity in Computation, Communication
+  and Storage. pp. 501--515. Springer (2017)
+
+\bibitem{son2016rew}
+Son, H.X., Tran, L.K., Dang, T.K., Pham, Y.N.: Rew-xac: an approach to
+  rewriting request for elastic abac enforcement with dynamic policies. In:
+  Advanced Computing and Applications (ACOMP). pp. 25--31. IEEE (2016)
+
+\bibitem{turkmen2017formal}
+Turkmen, F., den Hartog, J., Ranise, S., Zannone, N.: Formal analysis of xacml
+  policies using smt. Computers \& Security  66,  185--203 (2017)
+
+\bibitem{yu2011fdac}
+Yu, S., Ren, K., Lou, W.: Fdac: Toward fine-grained distributed data access
+  control in wireless sensor networks. IEEE Transactions on Parallel and
+  Distributed Systems  22(4),  673--686 (2011)
+
+\bibitem{zhang2014role}
+Zhang, R., Liu, L., Xue, R.: Role-based and time-bound access and management of
+  ehr data. Security and Communication Networks  7(6),  994--1015 (2014)
+
+\end{thebibliography}

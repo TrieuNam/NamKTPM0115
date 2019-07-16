@@ -1,0 +1,31 @@
+namespace teacher {
+	import Attributes_colleges.*
+
+	import ObligationAdvice.*
+
+	policyset TimeteacherSee {
+		target
+			clause resource_Student== "AccessControl.Student_data_layer.idStu"
+					and resource_Lecturer=="AccessControl.Lecturer_data_layer.idLec"
+					and resource_Classes=="AccessControl.Classes_data_layer.idClasses"
+		apply firstApplicable
+
+		policy trueTeacherOfClass {
+			target
+				clause role == "teacher" and action =="read"
+			apply firstApplicable
+
+			rule trueTeacher{
+// 	    condition  timeInRange(timeGreaterThan(,"18:00:00":time), "08:00:00":time,
+///			"18:00:00":time)  
+
+				condition  timeGreaterThan(timeOneAndOnly(timeBag("currentTime":time)),"08:00:00":time)
+							 
+				permit
+			}
+			rule denyTeacher{
+				deny
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+resource-student=>[MSSV002]
+resource-lecturer=>[MSLEC002]
+resource-classes=>[MSCLASS002]
+role=>[teacher]
+urn:oasis:names:tc:xacml:1.0:action:action-id=>[read]

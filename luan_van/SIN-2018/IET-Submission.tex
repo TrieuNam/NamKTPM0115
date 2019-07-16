@@ -1,0 +1,164 @@
+\documentclass{cta-author}
+
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{multirow}
+\usepackage[export]{adjustbox}
+
+\newtheorem{theorem}{Theorem}{}
+\newtheorem{corollary}{Corollary}{}
+\newtheorem{remark}{Remark}{}
+
+\begin{document}
+
+	% New definitions
+  \algnewcommand\algorithmicswitch{\textbf{switch}}ep
+  \algnewcommand\algorithmiccase{\textbf{case}}
+  \algnewcommand\algorithmicassert{\texttt{assert}}
+  \algnewcommand\Assert[1]{\State \algorithmicassert(#1)}%
+  % New "environments"
+  \algdef{SE}[SWITCH]{Switch}{EndSwitch}[1]{\algorithmicswitch\ #1\ \algorithmicdo}{\algorithmicend\ \algorithmicswitch}%
+  \algdef{SE}[CASE]{Case}{EndCase}[1]{\algorithmiccase\ #1}{\algorithmicend\ \algorithmiccase}%
+  \algtext*{EndSwitch}%
+  \algtext*{EndCase}%
+
+\supertitle{Submission Template for IET Research Journal Papers}
+
+\title{I am still here}
+
+\author{\au{First Author$^{1}$}, \au{Second Author$^{2\corr}$}, \au{Third Author$^{3}$}}
+
+\address{\add{1}{First Department, First University, Address, City, Country Name}
+\add{2}{Second Company Department, Company Address, City, Country Name}
+\add{3}{Third Department, Third University, Address, Country Name}
+\add{4}{Current affiliation: Fourth Department, Fourth University, Address, Country Name}
+\email{corresponding.author@second.com}}
+
+\begin{abstract}
+This should be informative and suitable for direct
+inclusion in abstracting services as a self-contained
+article. It should not exceed 200 words. It should
+summarise the general scope and also state the main results
+obtained, methods used, the value of the work and the
+conclusions drawn. No figure numbers, table numbers,
+references or displayed mathematical expressions should be
+included. The abstract should be included in both the
+Manuscript Central submission step (Step 1) and the
+submitted paper.
+\end{abstract}
+
+\maketitle
+
+\input{SIN-body}
+
+\section*{Example References}\label{sec13}
+
+\subsection{Websites}\label{subsec13.1}
+
+\begin{enumerate}
+\item[{[1]}] `Author Guide - IET Research Journals',
+http://digital-library.theiet.org/journals/author-guide, accessed 27
+November 2014\vspace*{6pt}
+
+\item[{[2]}] `Research journal length policy',
+http://digital-library.theiet.org/ files/research\_journals\_length\_policy.pdf,
+accessed 27 November 2014
+\end{enumerate}
+
+\subsection{Patent}\label{subsec13.2}
+
+\begin{enumerate}
+\item[{[3]}] `ORCID: Connecting research and researchers', http://orcid.org/,
+accessed 3 December 2014\vspace*{6pt}
+
+\item[{[4]}]
+`Fundref', http://www.crossref.org/fundref/, accessed 4 December 2014
+\end{enumerate}
+
+\subsection{Journal articles}\label{subsec13.3}
+
+\begin{enumerate}
+\item[{[5]}] Smith, T., Jones, M.: 'The title of the paper', IET Syst. Biol., 2007,
+1, (2), pp. 1--7\vspace*{6pt}
+
+\item[{[6]}] Borwn, L., Thomas, H., James, C.,~et al.:'The title of the paper, IET
+Communications, 2012, 6, (5), pp 125-138
+\end{enumerate}
+
+\subsection{Conference Paper}\label{subsec13.4}
+
+\begin{enumerate}
+\item[{[7]}]
+Jones, L., Brown, D.: 'The title of the conference paper'. Proc. Int.
+Conf. Systems Biology, Stockholm, Sweden, May 2006, pp. 1--7
+\end{enumerate}
+
+\subsection{Book, book chapter and manual}\label{subsec13.5}
+
+\begin{enumerate}
+\item[{[8]}] Hodges, A., Smith, N.: 'The title of the book chapter', in Brown, S.
+(Ed.): 'Handbook of Systems Biology' (IEE Press, 2004, 1st edn.), pp. 1--7\vspace*{6pt}
+
+\item[{[9]}]
+Harrison, E.A., and Abbott, C.: 'The title of the book' (XYZ Press,
+2005, 2nd edn. 2006)
+\end{enumerate}
+
+\subsection{Report}\label{subsec13.6}
+
+\begin{enumerate}
+\item[{[10]}] IET., 'Report Title' (Publisher, 2013), pp. 1-5\vspace*{6pt}
+
+\item[{[11]}] Brown, F.: 'The title of the patent (if available)'. British Patent
+123456, July\vadjust{\pagebreak} 2004
+
+\item[{[12]}] Smith, D., Hodges, J.: British Patent Application 98765, 1925
+\end{enumerate}
+
+\subsection{Thesis}\label{subsec13.7}
+
+\begin{enumerate}
+\item[{[13]}]
+Abbott, N.L.: 'The title of the thesis'. PhD thesis, XYZ University,
+2005
+\end{enumerate}
+
+\subsection{Standard}\label{subsec13.8}
+
+\begin{enumerate}
+\item[{[14]}] BS1234: 'The title of the standard', 2006
+\end{enumerate}
+
+\begin{table}[!h]
+\fwprocesstable{Example of large table\label{tab2}}
+{\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lccc}\toprule
+Column heading 1 &Column heading 2 & Column heading 3  & Column heading 4\\
+\midrule
+Result 1 &123 &123 & 123 \\
+Result 2 &123 &123 &123 \\
+Result 3 &123 &123 &123 \\
+Result 4 &123 &123 &123 \\
+Result 5 &123 &123 &123 \\
+Result 6 &123 &123 &123 \\
+Result 7 &123 &123 &123 \\
+Result 8 &123 &123 &123 \\
+\botrule
+\end{tabular*}}{}
+\end{table}
+
+\vfill\pagebreak
+
+\section{Appendices}\label{sec14}
+
+Additional material, e.g. mathematical derivations, tables and figures
+larger than half a page that may interrupt the flow of your paper's argument
+should form a separate Appendix section (see Table~\ref{tab2}). Do not, however, use
+appendices to lengthen your article unnecessarily as this section is
+included in the word count. If the material can be found in another work,
+cite this work rather than reproduce~it.
+The appendix section should be in double column format, and come after the references.
+
+\end{document}

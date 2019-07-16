@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DEMO/src"/>
+	<classpathentry kind="src" path="source/XACMLSMT.jar.src/src/java"/>
+	<classpathentry excluding="Yedek26AralikGece/" kind="src" path="Turkmen/src"/>
+	<classpathentry kind="src" path="Turkmen/src/Yedek26AralikGece"/>
+	<classpathentry kind="lib" path="DEMO/balana-exp-time.jar"/>
+	<classpathentry kind="lib" path="DEMO/balana-exp.jar"/>
+	<classpathentry kind="lib" path="DEMO/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="DEMO/honest-profiler/honest-profiler.jar"/>
+	<classpathentry kind="lib" path="source/XACMLSMT.jar.src/bin/XACMLSMT-0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="source/XACMLSMT.jar.src/bin/classes"/>
+</classpath>

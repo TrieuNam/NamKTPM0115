@@ -1,0 +1,287 @@
+SAT SOLVING TIMES ...
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:4.0
+Res:false time:2.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+Res:false time:0.0
+Res:false time:4.0
+0.2
+0.6000000000000001
+0.6000000000000001
+0.4
+0.8
+0.8
+0.8
+1.0
+1.2
+1.2
+1.6
+1.2
+1.6
+1.6
+1.6
+2.2
+2.0
+1.6
+2.2
+2.0
+2.2
+2.4
+2.4
+2.5999999999999996
+2.2
+2.8

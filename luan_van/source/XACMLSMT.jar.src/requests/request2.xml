@@ -1,0 +1,23 @@
+<Request xmlns="urn:oasis:names:tc:xacml:3.0:core:schema:wd-17" ReturnPolicyIdList="true" CombinedDecision="false"> 
+ <Attributes Category="urn:oasis:names:tc:xacml:1.0:subject-category:access-subject">
+    <Attribute IncludeInResult="true" AttributeId="resource_Student"><AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">AccessControl.Student_data_layer.idStu</AttributeValue> </Attribute>
+	<Attribute IncludeInResult="true"  AttributeId="resource_Lecturer"><AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">paper-submission-file_rc</AttributeValue></Attribute>
+ 	<Attribute IncludeInResult="true"  AttributeId="resource_Classes"><AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">paper-submission-file_rc</AttributeValue></Attribute>
+  </Attributes>
+   <Attributes Category="urn:oasis:names:tc:xacml:1.0:subject-category:access-subject" >
+     <Attribute IncludeInResult="false" AttributeId="role">
+      <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">teacher</AttributeValue>
+	</Attribute>
+  </Attributes> 
+ <Attributes Category="urn:oasis:names:tc:xacml:1.0:subject-category:access-subject" >
+     <Attribute IncludeInResult="false" AttributeId="urn:oasis:names:tc:xacml:1.0:action:action-id">
+      <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">read</AttributeValue>
+	</Attribute>
+  </Attributes>
+   <Attributes  >
+     <Attribute  FunctionId="urn:oasis:names:tc:xacml:1.0:function:time-less-than-or-equal">
+      <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#time">currentTime</AttributeValue>
+	</Attribute>
+  </Attributes>
+  
+</Request>

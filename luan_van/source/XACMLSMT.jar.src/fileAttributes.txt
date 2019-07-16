@@ -1,0 +1,14 @@
+	MSSV002
+resource-student	
+	MSLEC002
+resource-lecturer	
+	MSCLASS002
+resource-classes	
+	teacher
+role	
+	read
+urn:oasis:names:tc:xacml:1.0:action:action-id	
+	teacher
+role	
+	read
+urn:oasis:names:tc:xacml:1.0:action:action-id	

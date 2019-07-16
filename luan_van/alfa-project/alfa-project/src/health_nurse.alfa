@@ -1,0 +1,25 @@
+namespace health {
+	import Attributes.*
+
+	policyset Manager1_Nurse {
+		target
+			clause resourcePath=="patient_information" and actionType=="read"
+		apply permitOverrides
+
+		policy Manager_Nurse_See_info_patient {
+			target
+				clause role=="Nurse" and actionType=="read"
+			apply permitOverrides
+
+			rule permitNurse{
+						target
+			clause nurseStartedWorking == 8 and nurseEndWorking == 8
+						condition (AgeOfPatients == 16) && (stringOneAndOnly(resourceType) == "Viet_Nam")
+						permit
+					}
+			rule denyNurse{
+						deny
+					}
+		}
+	}
+}

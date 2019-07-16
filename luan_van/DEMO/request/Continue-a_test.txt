@@ -1,0 +1,3 @@
+{"urn:oasis:names:tc:xacml:1.0:resource:resource-id":"paper-decision_rc","urn:oasis:names:tc:xacml:1.0:action:action-id":"delete","role":"admin"}
+{"urn:oasis:names:tc:xacml:1.0:resource:resource-id":"paper-review-info-reviewer_rc","urn:oasis:names:tc:xacml:1.0:action:action-id":"create","role":"admin"}
+{"urn:oasis:names:tc:xacml:1.0:resource:resource-id":"conference_rc","urn:oasis:names:tc:xacml:1.0:action:action-id":"write","role":"admin"}

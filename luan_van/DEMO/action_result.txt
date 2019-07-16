@@ -1,0 +1,59 @@
+ true DELETE_POLICY
+11888138
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{LoadPolicies=2, ParseRequest=1, EvaluateRequest=2}
+
+
+1 true INSERT_POLICY
+10615944
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{ParseRequest=1, EvaluateRequest=2, LoadPolicies=2}
+
+
+1 true UPDATE_POLICY_DELETE_CONDITION
+10952897
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, FilterPolicies, EvaluateRequest]
+{LoadPolicies=2, EvaluateRequest=2, FilterPolicies=1, ParseRequest=1}
+
+
+1 true UPDATE_POLICY_EDIT_CONDITION
+11153938
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, FilterPolicies, EvaluateRequest]
+{EvaluateRequest=2, FilterPolicies=1, ParseRequest=1, LoadPolicies=2}
+
+
+1 true UPDATE_POLICY_INSERT_CONDITION
+11200415
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, FilterPolicies, RewriteRequest, EvaluateRequest]
+{LoadPolicies=2, FilterPolicies=1, EvaluateRequest=2, RewriteRequest=1, ParseRequest=1}
+
+
+1 false DELETE_POLICY
+11018876
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{LoadPolicies=2, ParseRequest=1, EvaluateRequest=2}
+
+
+1 false INSERT_POLICY
+10689748
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{ParseRequest=1, EvaluateRequest=2, LoadPolicies=2}
+
+
+1 false UPDATE_POLICY_DELETE_CONDITION
+10478671
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{LoadPolicies=2, ParseRequest=1, EvaluateRequest=2}
+
+
+1 false UPDATE_POLICY_EDIT_CONDITION
+11028926
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{ParseRequest=1, LoadPolicies=2, EvaluateRequest=2}
+
+
+1 false UPDATE_POLICY_INSERT_CONDITION
+10786904
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{ParseRequest=1, LoadPolicies=2, EvaluateRequest=2}
+

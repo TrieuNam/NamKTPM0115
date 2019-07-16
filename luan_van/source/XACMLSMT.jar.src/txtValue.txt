@@ -1,0 +1,9 @@
+role=teacher
+resource-student=AccessControl.Student_data_layer.idStu
+resource-lecturer=AccessControl.Lecturer_data_layer.idLec
+resource-classes=AccessControl.Classes_data_layer.idClasses
+urn:oasis:names:tc:xacml:1.0:action:action-id=read
+result=IND
+idLec2=795
+idClasses2=1312
+LIST_Student2=944,1409,747,1444,579,390 

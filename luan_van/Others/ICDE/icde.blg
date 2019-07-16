@@ -1,0 +1,21 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: icde.aux
+The style file: ieeetran.bst
+Database file #1: bibfile.bib
+Repeated entry---line 255 of file bibfile.bib
+ : @inproceedings{ferreira2006break
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 383 of file bibfile.bib
+ : @inproceedings{georgakakis2011spatio
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 391 of file bibfile.bib
+ : @inproceedings{ferreira2009securely
+ :                                    ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There were 3 error messages)

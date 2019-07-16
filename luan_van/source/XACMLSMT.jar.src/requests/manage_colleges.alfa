@@ -1,0 +1,37 @@
+namespace manage {
+	import Attributes_colleges.*
+	import ObligationAdvice.*
+	
+	policyset teacher1{
+		target clause resource_Student== "AccessControl.Student_data_layer.idStu" and resource_Lecturer=="AccessControl.Lecturer_data_layer.idLec" and resource_Classes=="AccessControl.Classes_data_layer.idClasses"
+		
+		apply firstApplicable
+			
+			policy trueteacher2{
+				target clause role =="teacher" and action =="read" 
+				apply firstApplicable
+			
+			rule trueTeacher {
+					permit
+				}
+				
+			}
+		policy trueadmin{
+			target clause role == "admin" and action == "read" or action== "write"
+			apply firstApplicable
+			rule trueadmin{
+				permit
+			}
+		}
+		policy truestudent{
+			target clause role == "student" and action == "read" 
+			apply firstApplicable
+			rule truestudent{
+				permit
+			}
+		}
+
+	}
+	
+			
+}

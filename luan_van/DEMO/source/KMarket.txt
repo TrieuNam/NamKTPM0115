@@ -1,0 +1,4 @@
+'http://kmarket.com/id/totalAmount' : '500','1000','100'
+'http://kmarket.com/id/role' : 'kmarket-silver','kmarket-gold','kmarket-blue'
+'http://kmarket.com/id/amount' : '50','5','10'
+'urn:oasis:names:tc:xacml:1.0:resource:resource-id' : 'Liquor','Drink','Medicine'

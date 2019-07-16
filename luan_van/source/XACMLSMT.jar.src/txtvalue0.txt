@@ -1,0 +1,9 @@
+role=teacher
+resource-student=MSSV003
+resource-lecturer=MSLEC003
+resource-classes=MSCLASS003
+urn:oasis:names:tc:xacml:1.0:action:action-id=read
+result=true
+idLec2=192
+idClasses2=1047
+LIST_Student2=555,813,690,1122,797,401,1088,229,

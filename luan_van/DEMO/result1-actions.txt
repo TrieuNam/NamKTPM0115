@@ -1,0 +1,58 @@
+Params: true DELETE_POLICY
+1569625
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, FilterPolicies, EvaluateRequest]
+{EvaluateRequest=2, ParseRequest=1, FilterPolicies=1, LoadPolicies=2}
+
+
+Params: true INSERT_POLICY
+1114721
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies]
+{LoadPolicies=2, EvaluateRequest=1, ParseRequest=1}
+
+
+Params: true UPDATE_POLICY_DELETE_CONDITION
+1524812
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, FilterPolicies, EvaluateRequest]
+{FilterPolicies=1, ParseRequest=1, LoadPolicies=2, EvaluateRequest=2}
+
+
+Params: true UPDATE_POLICY_EDIT_CONDITION
+1791820
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, FilterPolicies, EvaluateRequest]
+{FilterPolicies=1, ParseRequest=1, LoadPolicies=2, EvaluateRequest=2}
+
+
+Params: true UPDATE_POLICY_INSERT_CONDITION
+1707495
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, FilterPolicies, RewriteRequest, EvaluateRequest]
+{FilterPolicies=1, RewriteRequest=1, ParseRequest=1, EvaluateRequest=2, LoadPolicies=2}
+
+
+Params: false DELETE_POLICY
+1276265
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{EvaluateRequest=2, ParseRequest=1, LoadPolicies=2}
+
+
+Params: false INSERT_POLICY
+1595370
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{ParseRequest=1, EvaluateRequest=2, LoadPolicies=2}
+
+
+Params: false UPDATE_POLICY_DELETE_CONDITION
+1340434
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{EvaluateRequest=2, ParseRequest=1, LoadPolicies=2}
+
+
+Params: false UPDATE_POLICY_EDIT_CONDITION
+1454597
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{ParseRequest=1, LoadPolicies=2, EvaluateRequest=2}
+
+
+Params: false UPDATE_POLICY_INSERT_CONDITION
+1911029
+[ParseRequest, LoadPolicies, EvaluateRequest, LoadPolicies, EvaluateRequest]
+{ParseRequest=1, LoadPolicies=2, EvaluateRequest=2}

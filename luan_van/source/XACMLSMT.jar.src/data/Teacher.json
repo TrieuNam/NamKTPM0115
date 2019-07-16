@@ -1,0 +1,22 @@
+{
+	"id_teacher": "teacher_01",
+	"Name": "Ha Xuan Son",
+	"Age" : "27",
+	"Email" : "haxuanson@gmail.com",
+	"Countries" : [
+		"India",
+		"England",
+		"Australia"
+	]
+}
+{
+	"id_teacher": "teacher_02",
+	"Name": "Nguyen Hoang Thuan",
+	"Age" : "27",
+	"Email" : "nguyenhoangthuan@gmail.com",
+	"Countries" : [
+		"India",
+		"England",
+		"Australia"
+	]
+}

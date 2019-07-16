@@ -1,0 +1,12 @@
+role = teacher
+resource-student = AccessControl.student_data_layer(1-10000).idStu
+resource-lecturer = AccessControl.lecturer_data_layer(1-10000).idLec
+resource-class = AccessControl.classes_data_layer(1-10000).idClasses
+urn:oasis:names:tc:xacml:1.0:action:action-id = read
+
+result = deny
+  
+idLec = 3001
+idClasses = 2001
+LIST_Student = 478, 5000, 2883, 1001, 1002, 1003, 10000, 100000
+

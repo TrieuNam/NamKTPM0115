@@ -1,0 +1,19 @@
+Directory overview:
+==================
+
+mtl/            Mini Template Library
+core/           A core version of the solver
+README
+LICENSE
+
+To build (release version: without assertions, statically linked, etc):
+======================================================================
+
+cd core
+gmake rs
+
+Usage:
+======
+
+cd core
+./qmaxsat_static <input-file>

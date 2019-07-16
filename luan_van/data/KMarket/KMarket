@@ -1,0 +1,16 @@
+Key set http://kmarket.com/id/totalAmount
+	 Key value : 500
+	 Key value : 1000
+	 Key value : 100
+Key set http://kmarket.com/id/role
+	 Key value : kmarket-silver
+	 Key value : kmarket-gold
+	 Key value : kmarket-blue
+Key set http://kmarket.com/id/amount
+	 Key value : 50
+	 Key value : 5
+	 Key value : 10
+Key set urn:oasis:names:tc:xacml:1.0:resource:resource-id
+	 Key value : Liquor
+	 Key value : Drink
+	 Key value : Medicine

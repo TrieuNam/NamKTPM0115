@@ -1,0 +1,8 @@
+/health_care.HealthCarePsPatientRecord.xml
+/health_care_after_delete.HealthCarePsPatientRecord.xml
+/health_care_after_insert.HealthCarePsPatientRecord.xml
+/health_care_update_delete_rule.HealthCarePsPatientRecord.xml
+/health_care_update_edit_condition.HealthCarePsPatientRecord.xml
+/health_care_update_insert_condition.HealthCarePsPatientRecord.xml
+/health_care_inference.HealthCarePsPatientRecord.xml
+/health_care_policy.HealthCarePsPatientRecord.xml

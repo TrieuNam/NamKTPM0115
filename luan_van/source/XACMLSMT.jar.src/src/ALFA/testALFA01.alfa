@@ -1,0 +1,24 @@
+namespace CaseStudy {
+	import Attributes.*
+
+	policyset student {
+		target
+			clause resourcePath=="resource.student" and actionType=="read"
+		apply deobit
+
+		policy abc {
+			target
+				clause role=="student" and actionType=="read"
+			apply deobit
+
+			rule ac{
+condition (stringOneAndOnly(resourcePath) == "8H-AM_8H-PM") && (stringOneAndOnly(resourcePath) == "> 16") &&
+				(stringOneAndOnly(resourcePath) == "Viet_Nam")
+permit
+}
+			rule dc{
+deny
+}
+		}
+	}
+}

@@ -1,0 +1,62 @@
+namespace health_care_inference {
+	import Attributes.*
+	import ObligationAdvice.*
+	// Reference on	https://www.betterhealth.vic.gov.au/health/servicesandsupport/hospital-staff-roles
+	policyset HealthCarePsPatientRecord {
+		target clause resourceType=="Patient.Record" and actionType=="Read"
+		apply denyOverrides
+		
+		policy NormalAccessDoctor {
+			target clause patientStatus=="AvailableNurseDoctor"
+					clause role=="Doctor"
+			apply denyOverrides
+			rule denyRule {
+				condition not(stringOneAndOnly(userId)==stringOneAndOnly(patientRecordAssignedDoctorId))
+				deny
+			}
+			rule permitRule {
+				permit
+			}
+		}
+		
+		policy NormalAccessNurse {
+			target clause patientStatus=="AvailableNurseDoctor"
+					clause role=="Nurse"
+			apply denyOverrides
+			rule denyRuleOnNurse {
+				condition not(stringOneAndOnly(userId)==stringOneAndOnly(patientRecordAssignedNurseId))
+				deny
+			}
+			rule denyAssignedNurseToPrimateLentivirusGroup {
+				condition (stringOneAndOnly(resourcePath)=="Patient.Record.PrimateLentivirusGroup")
+				deny
+			}
+			rule permitRule {
+				permit
+			}
+		}
+		policy NormalAccessInsurance {
+			target clause role=="External" and partyType=="Insurance"
+			apply denyOverrides
+			rule permitBilling {
+				condition not(stringOneAndOnly(resourcePath)=="Patient.Record.Billing")
+				deny
+			}
+			rule permitRule {
+				permit
+			}
+		}
+		
+		policy NormalAccessPharmacy {
+			target clause role=="External" and partyType=="Pharmacy"
+			apply denyOverrides
+			rule permitMedicines {
+				condition not(stringOneAndOnly(resourcePath)=="Patient.Record.Medicines")
+				deny
+			}
+			rule permitRule {
+				permit
+			}
+		}
+	}
+}

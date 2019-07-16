@@ -1,0 +1,86 @@
+10
+
+dir
+9
+svn://143.239.81.246/RBACRuntimeWithSAT/SAT_Tools
+svn://143.239.81.246/RBACRuntimeWithSAT
+
+
+
+2012-06-28T10:35:00.702115Z
+6
+fturkmen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9368c79a-6596-4100-8a67-8f83e9b4b908
+
+msuncore_MAC-20090525
+dir
+
+IncMaxsatz
+dir
+
+zChaff
+dir
+
+maxsatz
+dir
+
+akmaxsat_1.1
+dir
+
+MaxSAT.wcnf
+file
+
+
+
+
+2012-06-28T10:47:39.856349Z
+e9c2a3426216926dcbb4b9dfa88beeac
+2012-06-28T10:35:00.702115Z
+6
+fturkmen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55234
+
+ubcsat-1-1-0
+dir
+
+QMaxSat0.11
+dir
+
+msuncore_Linux-20090525
+dir
+

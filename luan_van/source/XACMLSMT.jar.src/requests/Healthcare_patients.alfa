@@ -1,0 +1,25 @@
+namespace health {
+	import Attributes.*
+
+	policyset Manager {
+		target
+			clause resourcePath=="patient_information" and actionType=="read" or actionType=="write"
+				or resourcePath=="patient's_home_information" and actionType=="read" or actionType=="write"
+		apply permitOverrides
+		policy Manager_information_patient{
+			target clause role=="Patient" and actionType =="read" or actionType=="write"
+			apply permitOverrides
+			rule permitRuleIsNurse{
+				target clause role=="Nurse" and actionType=="read"  
+				permit 
+			}
+			rule permitRuleIsDocter{
+				target clause role =="Doctor" or actionType=="read"
+				permit
+			}
+			rule permitRule{
+				permit
+			}
+		}
+	}
+}

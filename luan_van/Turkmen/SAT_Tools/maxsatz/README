@@ -1,0 +1,28 @@
+
+CONTENTS
+
+* maxsatz.c: applies all the rules;
+* input.c: reads the CNF instance.
+
+INSTALLATION
+tar xvf maxsatz.tar
+
+COMPILATION
+Just type make in the maxsatz directory
+
+EXECUTION
+The solver needs two parameters: the CNF instance and the initial  upper bound. The default upper bound is the number of clauses in the CNF instance.
+
+So type for example
+
+maxsatz cnfFormula
+or
+maxsatz cnfFormula UB
+
+In the first case, the upper bound is the number of clauses in  cnfFormula. In the second case the upper bound is UB. 
+
+AUTHORS
+Chu Min Li - Universite de Picardie
+Felip Manya - IIIA (CSIC)
+Jordi Planes - Universitat de Lleida
+

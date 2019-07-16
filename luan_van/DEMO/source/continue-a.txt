@@ -1,0 +1,27 @@
+phase: {discussion}
+	 
+hasSubmittedReviewForResPaper: {true, false}
+
+role: {admin, pc-chair, pc-member, subreviewer} 
+
+action-id: {read,write,create,delete}
+
+isMeeting: {true, false}
+
+isConflicted: {true, false}
+
+isPending: {true, false}
+	 
+subjReviewsThisResPaper: {true, false}
+
+resource-id: {conference_rc, conferenceInfo_rc, pcMember_rc, pcMember-assignments_rc, pcMember-conflicts_rc, pcMember-assignmentCount_rc, pcMember-info_rc, pcMember-info-password_rc, pcMember-info-isChairFlag_rc, paper_rc, paper-submission-info_rc, paper-submission_rc, paper-submission-file_rc, paper-decision_rc, paper-conflicts_rc, paper-assignments_rc, paper-review_rc, paper-review-info_rc, paper-review-content_rc, paper-review-info-submissionStatus_rc, paper-review-content-rating_rc, paper-review-content-commentsAll_rc, paper-review-content-commentsPc_rc, paper-review-info-reviewer_rc, isMeetingFlag_rc}
+
+isReviewContentInPlace: {true, false}
+
+isEq-meetingPaper-resId: {true, false}
+
+isSeeUnassignedAllowed: {true, false}
+
+isEq-subjUserId-resUserId: {true, false}
+
+isSubjectsMeeting: {true, false}

@@ -1,0 +1,7 @@
+user-id => Doctor-Patient, Docor-Non-Patient
+role => Doctor, Nurse
+resource-type => Patient.Record, Doctor.Record
+patient:manage-info:status => AvailableNurseDoctor, AvailableNurseDoctor-patient
+patient:record:department => Heart, Brain
+patient:record:assigned-doctor-id => Doctor-Patient, Nurse-Patient
+action-type => Read, Write

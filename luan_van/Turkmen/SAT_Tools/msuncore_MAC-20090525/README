@@ -1,0 +1,11 @@
+### README --- msuncore
+
+Binary distribution of MSUnCore, an unsatisfiability-based MaxSAT
+solver. Use option '-h' for help on running MSUnCore. To use the
+MSUnCore API, include file include/msuncore.hh and link with
+lib/libmsu.a. The distribution provides examples of a driver for
+msuncore and a Makefile.
+
+## Copyright 2009 Joao Marques-Silva
+##
+## Author: jpms@ucd.ie

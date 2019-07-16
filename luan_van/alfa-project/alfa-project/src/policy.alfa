@@ -1,0 +1,21 @@
+namespace health_care_policy {
+	import Attributes.*
+	import ObligationAdvice.*
+	// Reference on	https://www.betterhealth.vic.gov.au/health/servicesandsupport/hospital-staff-roles
+	policyset HealthCarePsPatientRecord {
+		target clause resourceType=="Patient.Record" and actionType=="Read"
+		apply firstApplicable
+		
+		policy NormalAccessDoctor {
+			target clause role=="Doctor"
+			apply denyOverrides
+			rule permitPatientAssignedDoctor {
+				condition not(stringOneAndOnly(userId)==stringOneAndOnly(patientRecordAssignedDoctorId))
+				deny
+			}
+			rule permitRule {
+				permit
+			}
+		}
+	}
+}

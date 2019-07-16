@@ -1,0 +1,16 @@
+namespace health {
+	import Attributes_request_a.*
+	import ObligationAdvice.*
+		policyset  abc{
+		target clause resourceId=="paper-review-info_rc" 
+		apply denyOverrides
+		policy papview{
+			target clause role=="pc-chair" 
+				apply denyOverrides
+			rule pernule{
+				permit
+				
+				}
+			}
+		}
+	}

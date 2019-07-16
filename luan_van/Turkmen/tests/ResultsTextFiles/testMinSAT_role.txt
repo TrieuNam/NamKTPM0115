@@ -1,0 +1,287 @@
+SAT SOLVING TIMES ...
+Res:true time:4.0
+Res:false time:0.0
+Res:true time:4.0
+Res:true time:4.0
+Res:false time:0.0
+Res:true time:4.0
+Res:true time:4.0
+Res:true time:8.0
+Res:true time:0.0
+Res:true time:4.0
+Res:true time:0.0
+Res:true time:4.0
+Res:true time:24.0
+Res:true time:28.0
+Res:false time:0.0
+Res:true time:0.0
+Res:true time:2.0
+Res:true time:12.0
+Res:true time:4.0
+Res:true time:0.0
+Res:true time:40.0
+Res:true time:26.0
+Res:false time:0.0
+Res:false time:0.0
+Res:true time:40.0
+Res:true time:4.0
+Res:false time:0.0
+Res:true time:4.0
+Res:true time:4.0
+Res:true time:20.0
+Res:true time:4.0
+Res:true time:32.0
+Res:true time:0.0
+Res:true time:32.0
+Res:true time:0.0
+Res:true time:24.0
+Res:true time:12.0
+Res:true time:32.0
+Res:true time:6.0
+Res:true time:2.0
+Res:true time:24.0
+Res:true time:24.0
+Res:true time:16.0
+Res:true time:24.0
+Res:true time:0.0
+Res:true time:8.0
+Res:true time:4.0
+Res:true time:4.0
+Res:true time:4.0
+Res:true time:2.0
+Res:true time:76.0
+Res:true time:8.0
+Res:true time:100.0
+Res:true time:14.0
+Res:true time:8.0
+Res:true time:4.0
+Res:true time:88.0
+Res:true time:80.0
+Res:true time:48.0
+Res:true time:4.0
+Res:true time:112.0
+Res:true time:32.0
+Res:true time:20.0
+Res:true time:168.0
+Res:true time:52.0
+Res:true time:60.0
+Res:true time:120.0
+Res:true time:64.0
+Res:true time:56.0
+Res:true time:104.0
+Res:true time:44.0
+Res:true time:20.0
+Res:true time:44.0
+Res:true time:16.0
+Res:true time:20.0
+Res:true time:128.0
+Res:true time:48.0
+Res:true time:32.0
+Res:true time:24.0
+Res:true time:4.0
+Res:true time:144.0
+Res:true time:282.0
+Res:true time:188.0
+Res:true time:60.0
+Res:true time:100.0
+Res:true time:24.0
+Res:true time:224.0
+Res:true time:20.0
+Res:true time:8.0
+Res:true time:356.0
+Res:true time:148.0
+Res:true time:36.0
+Res:true time:136.0
+Res:true time:4.0
+Res:true time:468.0
+Res:true time:196.0
+Res:true time:228.0
+Res:true time:288.0
+Res:true time:292.0
+Res:true time:294.0
+Res:true time:80.0
+Res:true time:160.0
+Res:true time:4.0
+Res:true time:10.0
+Res:true time:74.0
+Res:true time:96.0
+Res:true time:6.0
+Res:true time:76.0
+Res:true time:42.0
+Res:true time:16.0
+Res:true time:16.0
+Res:true time:132.0
+Res:true time:140.0
+Res:true time:52.0
+Res:true time:24.0
+Res:true time:32.0
+Res:true time:116.0
+Res:true time:120.0
+Res:true time:52.0
+Res:true time:28.0
+Res:true time:52.0
+Res:true time:10.0
+Res:true time:142.0
+Res:true time:8.0
+Res:true time:84.0
+Res:true time:10.0
+Res:true time:84.0
+Res:true time:12.0
+Res:true time:12.0
+Res:false time:2.0
+Res:true time:554.0
+Res:true time:38.0
+Res:false time:0.0
+Res:true time:4.0
+Res:true time:4.0
+Res:true time:242.0
+Res:true time:68.0
+Res:true time:4.0
+Res:true time:152.0
+Res:true time:648.0
+Res:true time:696.0
+Res:true time:508.0
+Res:true time:540.0
+Res:false time:4.0
+Res:true time:4.0
+Res:true time:32.0
+Res:true time:300.0
+Res:true time:6.0
+Res:true time:8.0
+Res:false time:4.0
+Res:true time:16.0
+Res:true time:556.0
+Res:true time:766.0
+Res:true time:44.0
+Res:true time:488.0
+Res:true time:316.0
+Res:true time:12.0
+Res:true time:1472.0
+Res:true time:124.0
+Res:true time:1170.0
+Res:true time:64.0
+Res:true time:12.0
+Res:true time:44.0
+Res:true time:2.0
+Res:true time:328.0
+Res:true time:172.0
+Res:true time:798.0
+Res:true time:4.0
+Res:true time:240.0
+Res:true time:200.0
+Res:true time:386.0
+Res:true time:0.0
+Res:true time:16.0
+Res:true time:156.0
+Res:true time:160.0
+Res:true time:128.0
+Res:true time:4.0
+Res:true time:154.0
+Res:true time:64.0
+Res:true time:838.0
+Res:true time:708.0
+Res:true time:984.0
+Res:true time:228.0
+Res:true time:3908.0
+Res:true time:446.0
+Res:true time:576.0
+Res:true time:986.0
+Res:true time:24.0
+Res:true time:1854.0
+Res:true time:648.0
+Res:true time:298.0
+Res:true time:768.0
+Res:true time:28.0
+Res:true time:360.0
+Res:true time:426.0
+Res:true time:28.0
+Res:true time:60.0
+Res:true time:344.0
+Res:true time:36.0
+Res:true time:350.0
+Res:true time:316.0
+Res:true time:4.0
+Res:true time:164.0
+Res:true time:68.0
+Res:true time:8.0
+Res:true time:44.0
+Res:true time:852.0
+Res:true time:84.0
+Res:true time:216.0
+Res:true time:376.0
+Res:true time:880.0
+Res:true time:1118.0
+Res:true time:384.0
+Res:true time:172.0
+Res:true time:1342.0
+Res:true time:276.0
+Res:true time:504.0
+Res:true time:346.0
+Res:true time:8.0
+Res:true time:404.0
+Res:true time:594.0
+Res:false time:4.0
+Res:true time:468.0
+Res:true time:12.0
+Res:true time:28.0
+Res:true time:4.0
+Res:true time:290.0
+Res:true time:36.0
+Res:true time:424.0
+Res:true time:4.0
+Res:true time:926.0
+Res:true time:2230.0
+Res:true time:64.0
+Res:true time:28.0
+Res:true time:106.0
+Res:true time:16.0
+Res:true time:116.0
+Res:true time:584.0
+Res:true time:1726.0
+Res:true time:20.0
+Res:true time:40.0
+Res:true time:1202.0
+Res:true time:20.0
+Res:true time:352.0
+Res:true time:8.0
+Res:true time:116.0
+Res:true time:1386.0
+Res:true time:36.0
+Res:true time:436.0
+Res:true time:1900.0
+Res:true time:24.0
+Res:true time:384.0
+Res:true time:36.0
+Res:true time:12.0
+Res:true time:344.0
+Res:true time:88.0
+Res:true time:1080.0
+Res:true time:232.0
+Res:true time:1068.0
+Res:true time:2138.0
+3.0
+2.4
+4.6
+8.600000000000001
+5.4
+31.4
+62.4
+27.0
+122.2
+214.8
+57.599999999999994
+53.400000000000006
+11.4
+54.8
+19.799999999999997
+405.0
+118.6
+144.0
+692.2
+323.0
+126.4
+393.2
+30.799999999999997
+112.0
+235.0
+296.6

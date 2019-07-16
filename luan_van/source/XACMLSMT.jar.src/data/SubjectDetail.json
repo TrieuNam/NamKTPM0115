@@ -1,0 +1,20 @@
+{
+	"id_detail": "detail_01",
+	"Name": "subject_01",
+	"Department": "department_01",
+	"Teacher": "teacher_01",
+	"Student": [
+		"student_01",
+		"student_03"
+	]
+}
+{
+	"id_detail": "detail_02",
+	"Name": "subject_02",
+	"Department": "department_01",
+	"Teacher": "teacher_02",
+	"Student": [
+		"student_01",
+		"student_02"
+	]
+}

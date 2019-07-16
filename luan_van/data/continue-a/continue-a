@@ -1,0 +1,59 @@
+Key set phase
+	 Key value : discussion
+Key set hasSubmittedReviewForResPaper
+	 Key value : true
+Key set role
+	 Key value : admin
+	 Key value : pc-chair
+	 Key value : pc-member
+	 Key value : subreviewer
+Key set isMeeting
+	 Key value : true
+Key set isConflicted
+	 Key value : true
+	 Key value : false
+Key set isPending
+	 Key value : false
+Key set subjReviewsThisResPaper
+	 Key value : true
+Key set isReviewContentInPlace
+	 Key value : true
+Key set urn:oasis:names:tc:xacml:1.0:resource:resource-id
+	 Key value : conference_rc
+	 Key value : conferenceInfo_rc
+	 Key value : pcMember_rc
+	 Key value : pcMember-assignments_rc
+	 Key value : pcMember-conflicts_rc
+	 Key value : pcMember-assignmentCount_rc
+	 Key value : pcMember-info_rc
+	 Key value : pcMember-info-password_rc
+	 Key value : pcMember-info-isChairFlag_rc
+	 Key value : paper_rc
+	 Key value : paper-submission-info_rc
+	 Key value : paper-submission_rc
+	 Key value : paper-submission-file_rc
+	 Key value : paper-decision_rc
+	 Key value : paper-conflicts_rc
+	 Key value : paper-assignments_rc
+	 Key value : paper-review_rc
+	 Key value : paper-review-info_rc
+	 Key value : paper-review-content_rc
+	 Key value : paper-review-info-submissionStatus_rc
+	 Key value : paper-review-content-rating_rc
+	 Key value : paper-review-content-commentsAll_rc
+	 Key value : paper-review-content-commentsPc_rc
+	 Key value : paper-review-info-reviewer_rc
+	 Key value : isMeetingFlag_rc
+Key set isEq-meetingPaper-resId
+	 Key value : true
+Key set isSeeUnassignedAllowed
+	 Key value : true
+Key set isEq-subjUserId-resUserId
+	 Key value : true
+Key set isSubjectsMeeting
+	 Key value : true
+Key set urn:oasis:names:tc:xacml:1.0:action:action-id
+	 Key value : read
+	 Key value : write
+	 Key value : create
+	 Key value : delete

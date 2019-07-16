@@ -1,0 +1,84 @@
+In a real environment unanticipated situations may occur, for examples people are granted and revoked their permissions frequently when they change their positions or departments or get fired.
+
+I
+1. The approach assumes that a patient is always available and able to change her policies at request time, especially in case of emergencies. This assumption does not appear to be realistic.
+	=> Có thể nhờ Admin
+		=> Đánh giá vụ này thế nào?
+
+2, One of these criteria states: "policies includes a variable which contain a reference to run-time or location". This criterion is not satisfied by the proposed approach.  
+	=> Cần làm hết
+
+3.  The notation of policies and the approach for policy flattening have been borrowed from [21]. This should be acknowledged in the paper.
+  => Thêm acknowledgement cho Turkmen
+
+
+II
+
+ĐƯA RELATED LÊN TRÊN
+
+
+There are many ways to realize this approach.  A simple approach is to have existing rules that embody this approach in their preconditions, and authorize appropriate users to update attribute data stored in the policy information point to truthify or falsify those conditions when appropriate.  This can be done in several existing access control policy frameworks that support state changes.  One example of such a framework is A Logic for State-Modifying Authorization Policies by M. Becker and S. Nanz.
+
+The authors propose a more complicated approach in which the policy rules are updated dynamically.  They should argue, perhaps with the help of examples, why this more complicated approach is necessary.
+
+  => Hướng phát triển
+
+Is the effect of the rule change limited to that request?
+  => Nếu request kết thúc thì ko còn sự thay đổi đó nữa
+
+
+The policy model in section 2.1 is adopted from XACML and should mention XACML by name in the text, not just in the bibliography.  The review of this policy model can be shortened.  
+  => Có thể viết ngắn phần XACML lại
+
+What is an "applicable constraint"?  Is it the same as a Condition element in a XACML rule?
+  Giải thích rõ hơn applicable constraint
+
+
+The double negative in the last sentence of the footnote on page 5 is confusing.  Also, the comments in this footnote are important and should be incorporated in the main text.
+
+  'Without this policy, the patient does not have to request personal data protection
+in an emergency situation so that data is easily provided to the doctors or nurses.'
+
+III
+
+1.      It is not clear how the model proposed in this paper is new compared to the existing solutions.
+            STEM-RBAC TMAC XACML v3.0 ACDP-HC
+Practicality High     High    Low       High
+  => Problem
+
+2. Fine-Grained Controls Medium Medium High High
+Robustness Low Low High High
+Dynamic Policy Static Static Static Dynamic
+Practicality High High Low High
+Context Information Medium Low High High
+
+  => Tiêu chí có tham khảo ở đâu? các tiêu chí đánh giá này được tham khảo bởi bài [?]
+
+3. Context Information
+  STEM có nói trong related work => Tham khảo related work.
+  - 
+
+  TMAC
+  - 
+
+  ACDP-HC
+  - 
+
+4. The definitions are sloppy and not formal. Sometimes they are simply English descriptions, and other times include examples and discussions.
+  => Làm rõ định nghĩa từ đâu tới đâu, nên viết in nghiêng
+
+
+  5.      While the abstract states that the proposed model has been implemented (proof-of-concept) and experimental results are presented, no such information is in the paper.
+  => Đã có
+
+6. Section 3.2 on dynamic policies includes how changes such as insert/delete/edit of policies can be done, but no discussion of any dynamic treatment. However, section 5.1 states that the proposed model allows for real time/request time changes. No discussion of dynamic nature and the implications of allowing such real time changes is in the paper.
+
+  => Mục đích của sự thay đổi Policy là hướng về làm cho Request được Permit
+    Được xét từ trong rất nhiều mục đích khác nhau của hệ thống Dynamic Policy
+
+    Từ trước giờ ứng dụng Dynamic Policy đã cho phép Request được Permit hay chưa.
+      Chưa có hướng tiếp cận dùng Dynamic Policy.
+      Bài báo là 1 ứng dụng của Dynamic Policy.
+
+7. Table 2 that evaluates the proposed model with other existing models has no support, but some high level discussion. Moreover, the discussion on robustness talks about flexibility.
+=> Có vẻ nên thay bằng Flexibility ở criteria này.
